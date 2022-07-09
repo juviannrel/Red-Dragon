@@ -23,8 +23,8 @@ global.alivemsg = `My name is Juvian🔥
 My Creator is Juviann` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['+6282362285077'] //Owner number in aive msg
-global.premium = ['+6282362285077'] //Owner Number info
-global.ownernomer = '+6282362285077' //Owner Number <<<
+global.premium = ['+6282362285077','6285814772930'] //Owner Number info
+global.ownernomer = '+6282362285077','6285814772930' //Owner Number <<<
 
 global.ownername = 'Juviann' //Owner Name
 global.botname = ' ☬Viann༒Bot࿐' //Bot Name
